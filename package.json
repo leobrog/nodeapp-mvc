@@ -1,0 +1,22 @@
+{
+  "name": "nodeapp-mvc",
+  "version": "1.0.0",
+  "description": "NodeJs MVC app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leobrog/nodeapp-mvc.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Leonardo Brognoli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leobrog/nodeapp-mvc/issues"
+  },
+  "homepage": "https://github.com/leobrog/nodeapp-mvc#readme"
+}
